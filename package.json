@@ -253,5 +253,10 @@
     "remove-indentation": "^1.1.0",
     "remove-trailing-spaces": "^1.0.7",
     "strip-indent": "^3.0.0"
-  }
+  },
+	"__metadata": {
+		"id": "9564f2d4-0536-4ff6-a022-edf544074590",
+		"publisherId": "5139bf11-ed3b-42bb-9aaf-376ea9c09b1b",
+		"publisherDisplayName": "Tim Mackey"
+	}
 }

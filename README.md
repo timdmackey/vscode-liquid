@@ -19,6 +19,10 @@ Thanks for your patience!
 
 A visual studio code extension for the [Liquid](https://shopify.github.io/liquid/) template language. Includes syntax highlighting support for Liquid code used in HTML, JavaScript CSS, SCSS, Markdown and more. Ships with auto formatting code beautification, advanced snippet auto-completion resolution and respects VS Codes native Intellisense, hover and diagnostic features.
 
+### Mechanic Enhancements
+
+([Tim Mackey](https://github.com/timdmackey)) - Added support for various Mechanic tags. These changes are for personal use and this is not a validly authorized ditribution of the vscode-liquid extension!
+
 ### Key Features
 
 - Syntax support for Liquid in CSS, SCSS, JavaScript, Markdown and more!
